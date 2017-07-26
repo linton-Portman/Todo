@@ -38,8 +38,8 @@ var tasklist = this.props.task.map((item,index) => {
                 <thead>
                 <tr>
                     <th>Task Name</th>
-                    <th>Task Details</th>
-                    <th></th>
+                    <th colSpan="2">Task Details</th>
+                    
                 </tr>
                 </thead>
                 <tbody>
