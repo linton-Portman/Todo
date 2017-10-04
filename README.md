@@ -1,5 +1,5 @@
 #### This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-### Created using React and Bootstrap just for fun and learn more about react.
+### Created using React and Bootstrap just for fun and to learn more about react.
 
 #### To view : https://linton-portman.github.io/Todo
 
